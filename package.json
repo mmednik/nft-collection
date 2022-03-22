@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/mmednik/nft-collection#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.6.1",
     "hardhat": "^2.9.1"
   },
   "dependencies": {
